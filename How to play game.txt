@@ -1,0 +1,6 @@
+Use "Arrow keys" to move.
+Catch (touch) the green bot to get mark. If you touch the red bot, you will lose the game.
+Press "Enter" to begin.
+Press "Space" to restart game.
+Now, Enjoy it!
+Thanks for play the game. 
